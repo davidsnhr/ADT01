@@ -1,0 +1,3 @@
+/Users/davidsanchez/CLionProjects/ADT01/cmake-build-debug/CMakeFiles/ADT01.dir
+/Users/davidsanchez/CLionProjects/ADT01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidsanchez/CLionProjects/ADT01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
